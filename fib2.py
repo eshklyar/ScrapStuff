@@ -60,4 +60,4 @@ def find_prod(i: int) ->(int, int, bool):
 
 # print(fibonacci(9))
 print(find_prod(714))
-print(find_prod(4895))
+print(find_prod(5895))
